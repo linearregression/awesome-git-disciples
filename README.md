@@ -26,7 +26,7 @@ To add your please follow the default procedure:
 7. Push your changes to GitHub and open a pull-request
 8. Wait for approval 
 
-PS: Requests out of the default patter will NOT be merged
+PS: Requests out of the default pattern will NOT be merged
 
 
 
